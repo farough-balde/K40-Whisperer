@@ -18,6 +18,7 @@
 
 """
 version = '0.54'
+
 title_text = "K40 Whisperer V"+version
 
 import sys
