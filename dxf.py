@@ -23,7 +23,7 @@ Zero       = 0.00001
 ####################################################
 ##     PointClass from dxf2gcode_b02_point.py     ##
 ####################################################
-class PointClass:
+class PointClass:;
     def __init__(self,x=0,y=0):
         self.x=x
         self.y=y
